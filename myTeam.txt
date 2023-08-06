@@ -1,0 +1,10 @@
+derupkar,E,100,30,60,10
+atkarick,B,100,70,20,50
+upderkar,W,100,50,70,30
+derickel,E,100,30,60,10
+enenpo,E,100,30,60,10
+atelen,B,100,70,20,50
+ickkaren,D,100,90,40,50
+duocallder,W,100,50,70,30
+fuduotuk,W,100,50,70,30
+ickuptuk,K,100,60,60,60
